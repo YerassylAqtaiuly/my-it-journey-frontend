@@ -1,5 +1,3 @@
-# my-it-journey-frontend
-My first frontend project. Learning HTML, CSS and JavaScript step by step.
 # My IT Journey – Frontend Project
 
 This is my first frontend project created as part of my journey into IT.
